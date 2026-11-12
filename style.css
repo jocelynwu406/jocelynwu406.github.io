@@ -202,7 +202,7 @@ footer { border-top: 1px solid var(--line); padding: 28px 0; color: var(--muted)
 }
 .portrait img, .about-photo {
   display: block; width: 100%; height: auto; aspect-ratio: 4 / 5; object-fit: cover;
-  object-position: 55% 40%; border-radius: 22px;
+  object-position: 50% 30%; border-radius: 22px;
 }
 .about-photo { margin-top: 20px; max-width: 280px; }
 @media (max-width: 760px) {
